@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<table style="border:none; width:100%">
+<table style="border:none">
     <tr>
         <td width="50%" valign="top">
             <p>I am a web enthusiast, full-stack developer.</p>
