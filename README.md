@@ -4,6 +4,8 @@
 
 I am a web enthusiast, full-stack developer.
 
+📝 <del>regulary</del> write articles on <a href="https://blog.csdn.net/Raccon_">my blog</a>
+
 📫 Reach me: <a href="mailto: tyuf64@163.com">tyuf64@163.com</a>
 
 <a href="https://raccom.cc"><img src="https://img.shields.io/badge/Raccom-1e293b?logo=protocolsdotio&logoColor=%23fff"></a><br/>
