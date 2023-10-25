@@ -1,15 +1,15 @@
 ### Hi there 👋
 
-<table style="width: 100%!important">
-    <tr style="border: none!important">
-        <td width="50%" valign="top" style="border: none!important">
+<table width="100%">
+    <tr border="0">
+        <td width="50%" valign="top" border="0">
             <p>I am a web enthusiast, full-stack developer.</p>
             <p>📫 Reach me: <a href="mailto: tyuf64@163.com">tyuf64@163.com</a></p>
             <p><a href="https://raccom.cc"><img src="https://img.shields.io/badge/Raccom-1e293b?logo=protocolsdotio&logoColor=%23fff"></a></p>
             <a href="https://github.com/raccom"><img src="https://img.shields.io/github/stars/raccom?color=1f85bf&label=GitHub%20Stars&logo=Github"></a>
             <a href="https://github.com/raccom"><img src="https://visitor-badge.laobi.icu/badge?page_id=raccom.raccom"></a>
         </td>
-        <td width="50%" valign="top" style="border: none!important">
+        <td width="50%" valign="top" border="0">
             <img align='right' src="https://i.giphy.com/media/zOvBKUUEERdNm/giphy.webp" width="230">
         </td>
     </tr>
