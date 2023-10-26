@@ -6,8 +6,8 @@ I am a full-stack developer.
 
 📫 Reach me: <a href="mailto: tyuf64@163.com">tyuf64@163.com</a>
 
-<a href="https://raccom.cc"><img src="https://img.shields.io/badge/Raccom-1e293b?logo=protocolsdotio&logoColor=%23fff"></a>
-<a href="https://github.com/raccom"><img src="https://visitor-badge.laobi.icu/badge?page_id=raccom.raccom"></a>
+<a href="https://raccom.cc"><img src="https://img.shields.io/badge/Raccom-35495e?logo=protocolsdotio&logoColor=%23fff"></a>
+<a href="https://github.com/raccom"><img src="https://visitor-badge.laobi.icu/badge?page_id=raccom.raccom&format=true&left_color=%2335495e&right_color=%2342b883"></a>
 <!-- <a href="https://github.com/raccom"><img src="https://img.shields.io/github/stars/raccom?color=1f85bf&label=GitHub%20Stars&logo=Github"></a> -->
 
 <details>
